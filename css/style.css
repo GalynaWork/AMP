@@ -227,6 +227,7 @@ body {
     color: #ffffff;
     height: 51px;
     justify-content: center;
+    -webkit-justify-content: center;
     transition: height 450ms ease 0s; }
 
 #portfolio a:hover img, #aboutUs a:hover img {
